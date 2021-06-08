@@ -1,3 +1,4 @@
+
 $ pkg update && pkg upgrade
 
 $ pkg install python2
@@ -11,3 +12,6 @@ $ git clone  https://github.com/nikicrk/FMBF
 $ cd FMBF
 
 $ python2 FMBF.py
+
+
+Hade
