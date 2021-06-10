@@ -11,7 +11,7 @@ $ git clone  https://github.com/nikicrk/FMBF
 
 $ cd FMBF
 
-$ python2 FMBF.MBFF
+$ python2 oky.MBFF
 
 
 Hade
